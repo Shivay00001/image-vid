@@ -1,22 +1,50 @@
-<div align="center">
+# Image Vid
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+video 
 
-  <h1>Built with AI Studio</h2>
+![Language](https://img.shields.io/badge/Language-Go-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🚀 Overview
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+Welcome to the **Image Vid** repository. This project is built to deliver a robust and scalable solution tailored to modern development standards.
 
-</div>
+## ✨ Features
 
+- **High Performance:** Optimized for speed and efficiency.
+- **Scalable Architecture:** Designed to grow with your needs.
+- **Clean Codebase:** Follows best practices and industry standards.
+- **Secure by Default:** Engineered with security in mind.
 
-## Prerequisites
-- Required environment and dependencies
+## 🛠️ Prerequisites
 
-## Installation
-Follow standard installation steps for this language.
+Ensure you have the following installed in your environment before proceeding:
+- Appropriate runtime/compiler for `Go`
+- Standard development tools
 
-## Usage
-Instructions on how to run the project.
+## 📦 Installation
 
+Follow standard installation steps for `Go` to set up the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shivay00001/image-vid.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd image-vid
+   ```
+3. Install dependencies according to the standard `Go` ecosystem.
+
+## 💻 Usage
+
+Run the project using standard execution commands for `Go`. Ensure all environment variables and configurations are set prior to execution.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+## 📝 License
+
+This project is licensed under standard terms.
